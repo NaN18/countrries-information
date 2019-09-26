@@ -1,0 +1,32 @@
+body{ background-color:darkgrey;}
+    #demo
+    {
+      text-align: center;
+      border : 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  align-items: center;
+  margin-left: 300px;
+  padding: 1%;
+    }
+    table,th,td
+    {
+      border: 1px solid black;
+      padding: 1%;
+    }
+    #demo1
+    {
+      text-align: center;
+    }
+    #demo th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+#demo tr{
+  background-color: aqua;
+}
